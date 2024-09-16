@@ -1,0 +1,31 @@
+body{
+    background-color: #69B578;
+}
+.header{
+    font-family: "Poppins", sans-serif;
+    width: 100vw;
+    margin: -8px;
+    padding: 10px;
+    background: #D0DB97;
+}
+
+#headertext{
+    font-size: 50px;
+}
+
+.blogbox{
+    width: 10vw 10vw;
+    padding: 5vw 7vw;
+    border: yellow;
+    background: #FFF8F0;
+    margin: 5vw 20vw ;
+    border: 10px solid #3A7D44;
+    border-radius: 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #392F5A;
+    text-align: center;
+}
+
+.paragraph-text{
+    text-align: left;
+}
